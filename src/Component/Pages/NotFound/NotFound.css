@@ -1,0 +1,13 @@
+.notFound .container{
+    margin: auto;
+}
+.notFound img{
+    width: 100%;
+}
+.button{
+    text-align: center;
+}
+.button h2, .button p{
+    font-weight: bolder;
+    display: block;  
+}

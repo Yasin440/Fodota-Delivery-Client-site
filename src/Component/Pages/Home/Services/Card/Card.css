@@ -1,0 +1,14 @@
+.card button{
+    transition: .5s all;
+}
+.card button:hover{
+    background-color: #FFCC00;
+}
+.card .delete:hover{
+    background-color: #ff1f1f;
+    color: white;
+}
+.card img{
+    height: 202px;
+    width: 202px;
+}

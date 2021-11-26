@@ -1,0 +1,14 @@
+body{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+.pColor{
+    color:#FFCC00;
+}
+.sColor{
+    color: #F71943;
+}
+.bShadow{
+    box-shadow: 0 0 20px 3px #80808047;;
+}

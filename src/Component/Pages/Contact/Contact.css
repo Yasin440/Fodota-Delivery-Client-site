@@ -1,0 +1,25 @@
+.contact{
+    background-color: #f2f2f2;
+}
+.form fieldset{
+    width: 50%;
+    margin: 0 auto;
+}
+.form input,textarea{
+    display: block;
+    width: 100%;
+    font-weight: 500;
+    padding: .7rem;
+    margin-bottom: 25px;
+    border: 1px solid #F71943;
+    background-color: transparent;
+}
+.submit{
+    background: #F71943;
+    color: whitesmoke;
+    transition: .5s all;
+}
+.submit:hover{
+    background:transparent;
+    color: black;
+}

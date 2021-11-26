@@ -1,0 +1,11 @@
+.services-area{
+    background-color: #623e3e;
+}
+.services-area .addFood{
+    color: white;
+    transition: .5s all;
+}
+.services-area .addFood:hover{
+    background-color: #FFCC00;
+    color: black;
+}

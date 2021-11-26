@@ -1,0 +1,6 @@
+.placeOrder button{
+    transition: .5s all;
+}
+.placeOrder button:hover{
+    background-color: #17e980;
+}

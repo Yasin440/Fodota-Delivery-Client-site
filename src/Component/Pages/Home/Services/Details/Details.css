@@ -1,0 +1,19 @@
+.serviceDetails{
+    border: 1px solid gainsboro;
+}
+.serviceDetails button{
+    transition: .5s all;
+}
+.serviceDetails button:hover{
+    background-color: #FFCC00;
+}
+.serviceCard img{
+    width: 202px;
+    height: 202px;
+}
+.placeOrder button{
+    transition: .5s all;
+}
+.placeOrder button:hover{
+    background-color: #17e980;
+}
